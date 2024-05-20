@@ -1,5 +1,5 @@
 # BackMasking
-Project for class. We were given a BKStack.java and BackMasking.java files, the rest were written by me. The clip.dat file was a test file provided to be the input audio file to test that the code is working.
+Project for class. We were given the BKStack.java and BackMasking.java files, the rest were written by me. The clip.dat file was a test file provided to be the input audio file to test that the code is working.
 
 
 ArrayStack Implementation
